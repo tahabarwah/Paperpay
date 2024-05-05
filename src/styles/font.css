@@ -1,0 +1,63 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/OutfitMedium.ttf");
+  font-family: "Outfit";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/OutfitBold.ttf");
+  font-family: "Outfit";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/OutfitRegular.ttf");
+  font-family: "Outfit";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/OutfitExtraLight.ttf");
+  font-family: "Outfit";
+  font-weight: 200;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/PalanquinMedium.ttf");
+  font-family: "Palanquin";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/PalanquinExtraLight.ttf");
+  font-family: "Palanquin";
+  font-weight: 300;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/PalanquinRegular.ttf");
+  font-family: "Palanquin";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/OutfitSemiBold.ttf");
+  font-family: "Outfit";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/OutfitLight.ttf");
+  font-family: "Outfit";
+  font-weight: 300;
+}
